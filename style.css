@@ -384,6 +384,17 @@ p.detailstudiogd
     background-color: rgb(222, 215, 236); 
 }
 
+p.detailstudiogd2
+{
+    color: #0c3469;
+    font-family: Consolas;
+    font-size: 26px;
+    margin-top: 2%;
+    margin-left: 0%;
+    margin-right: 4%;
+    background-color: rgb(222, 215, 236); 
+}
+
 
 
 /* Page Projets */
@@ -510,6 +521,30 @@ div.btssio
 h1.h1btssio
 {
     color: rgb(222, 215, 236)
+}
+
+p.accueil5
+{
+    color: rgb(194, 173, 233);
+    margin-top: 15%;
+    margin-left: -20%;
+    font-family: Consolas;
+    font-weight: bold;
+    font-size: 36px;
+    text-align: center;
+}
+
+
+/* Page Documentations */
+
+
+p.pagedocumentations
+{
+    color: #1f5294;
+    font-family: Consolas;
+    font-weight: bold;
+    font-size: 36px;
+    margin-top: 8%;
 }
 
 
